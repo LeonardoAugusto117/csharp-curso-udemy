@@ -1,0 +1,31 @@
+# csharp-curso-udemy
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
