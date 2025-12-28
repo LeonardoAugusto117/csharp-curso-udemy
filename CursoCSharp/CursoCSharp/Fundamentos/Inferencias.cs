@@ -28,7 +28,6 @@ namespace CursoCSharp.Fundamentos
             Console.WriteLine(soma);
 
 
-
         }
     }
 }
